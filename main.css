@@ -6,11 +6,11 @@
 }
 
 header {
-    background-color: rgb(160, 105, 211);
+    background-color: rgb(88, 139, 248);
     padding: 16px 0;
     color: #fff;
     display: flex;
-    border-bottom: 16px solid rebeccapurple;
+    border-bottom: 16px solid rgb(38, 35, 207);
     justify-content: center;
     text-transform: uppercase;
     font-style: italic;
